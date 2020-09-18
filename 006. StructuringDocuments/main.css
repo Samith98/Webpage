@@ -1,0 +1,73 @@
+.main-section{
+    background-color: chocolate;
+    width: 550px;
+    height: 550px;
+    margin: 10rem 20rem 10rem 20rem;
+    border: 5rem;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main-section:hover{
+    height: 600px;
+    width: 600px;
+    background-color: rosybrown;
+}
+
+h1 #main-heading{
+    padding: 10px;
+}
+
+.header-article{
+    background-color: coral;
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 15px;
+    margin: 10px;
+}
+
+.header-article:hover{
+    background-color: royalblue;
+    cursor: pointer;
+    width: 500px;
+    height: 150px;
+    transition: 0.2ms;
+    box-shadow: 5px 5px 1.5px red;
+}
+
+.nav-article{
+    background-color: sandybrown;
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 15px;
+    margin: 10px;
+}
+
+.nav-article:hover{
+    background-color: rebeccapurple;
+    cursor: pointer;
+    width: 500px;
+    height: 150px;
+    transition: 0.2ms;
+    box-shadow: 5px 5px 1.5px seagreen;
+}
+
+.main-article{
+    background-color: silver;
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 15px;
+    margin: 10px;
+}
+
+.main-article:hover{
+    background-color: olive;
+    cursor: pointer;
+    width: 500px;
+    height: 150px;
+    transition: 0.2ms;
+    box-shadow: 5px 5px 1.5px slategrey;
+}
